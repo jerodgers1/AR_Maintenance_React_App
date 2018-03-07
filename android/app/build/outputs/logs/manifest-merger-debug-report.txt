@@ -1,0 +1,149 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml:1:1-32:12
+	package
+		ADDED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml:2:5-33
+		INJECTED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml:7:5-77
+MERGED from [com.facebook.react:react-native:0.52.2] C:\Users\james\.android\build-cache\c1171e80006af456988159dc8cdf56026f3ac36d\output\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml:7:22-75
+uses-sdk
+ADDED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml:9:5-11:41
+MERGED from [AR_Maintenance:react-native-navigation:unspecified] C:\Users\james\Desktop\personalApp\AR_Maintenace_App\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.52.2] C:\Users\james\.android\build-cache\c1171e80006af456988159dc8cdf56026f3ac36d\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\james\.android\build-cache\efc84e42672ab29d4b10102188a2ff26a19a8d0d\output\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\james\.android\build-cache\8c3785b8bda5e972b4658c9c50dc6adcbee06af3\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\james\.android\build-cache\93dc7ac11b0161f91d077ed3ceaff3021673bfaf\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\james\.android\build-cache\db358566183e5fd525653f59d85c2235da96f7a8\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\james\.android\build-cache\a60f9e0dd73034993a115509d5f317782c02dae7\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\james\.android\build-cache\d9b394dd03024d97af43d57cc2948ae3d06ecfb2\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\james\.android\build-cache\2e3131a6b9db7a54c86467385b7731ccbe9932b4\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\james\.android\build-cache\f79b037ed2a797c8c4d09b63e438f960f4434eff\output\AndroidManifest.xml:2:3-70
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] C:\Users\james\.android\build-cache\91835d29f0d9807e337f41a155bc098b11312a77\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\james\.android\build-cache\61f1b906969086addf8edf958ae2db2e52a84003\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\james\.android\build-cache\865f1a4f2ea77d3534eb6d884becf9ed6f8ab4af\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\james\.android\build-cache\bf415670f23182e652fd82c008ccc58689c59e48\output\AndroidManifest.xml:20:5-44
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\james\.android\build-cache\cc473734f646256a5a40e51f22cae71e0778ba6f\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\james\.android\build-cache\154f92330ffd1f0fb50cbbd63482c39272e374a7\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\james\.android\build-cache\9fb1b6c9ab72eca1cb8d67aa6f9b116e0cbe36ee\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\james\.android\build-cache\db445da0cbcc4f53291473b3636624b37468619b\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\james\.android\build-cache\0513ff22042771688dae7ebc5961d5ac9759d423\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\james\.android\build-cache\f55114e8747772408c4c836177f4712c8fc794b0\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\james\.android\build-cache\34a2467d268644b196b359d6911d4b085645c5bf\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\james\.android\build-cache\4e8d345675869831f3397f0ab68ee68b53ad0aed\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\james\.android\build-cache\f561d0698770e024c10209d9a0bdefbaf7e12e11\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\james\.android\build-cache\32be9a684c33c2be52f4e8d42fe26e621f8fc729\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\james\.android\build-cache\4643af9df91a5cda1d416085bbd6c13922effb15\output\AndroidManifest.xml:8:5-10:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\james\.android\build-cache\61f1b906969086addf8edf958ae2db2e52a84003\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml:11:9-38
+		INJECTED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml:10:9-35
+		INJECTED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml:13:5-30:19
+MERGED from [AR_Maintenance:react-native-navigation:unspecified] C:\Users\james\Desktop\personalApp\AR_Maintenace_App\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\AndroidManifest.xml:11:5-18:19
+MERGED from [com.facebook.react:react-native:0.52.2] C:\Users\james\.android\build-cache\c1171e80006af456988159dc8cdf56026f3ac36d\output\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\james\.android\build-cache\f79b037ed2a797c8c4d09b63e438f960f4434eff\output\AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\james\.android\build-cache\5eb418c263974f4d58ace12e8e41a29cfebcb11a\output\AndroidManifest.xml:2:3-17
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] C:\Users\james\.android\build-cache\91835d29f0d9807e337f41a155bc098b11312a77\output\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\james\.android\build-cache\61f1b906969086addf8edf958ae2db2e52a84003\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\james\.android\build-cache\bf415670f23182e652fd82c008ccc58689c59e48\output\AndroidManifest.xml:26:5-20
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\james\.android\build-cache\cc473734f646256a5a40e51f22cae71e0778ba6f\output\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\james\.android\build-cache\154f92330ffd1f0fb50cbbd63482c39272e374a7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\james\.android\build-cache\9fb1b6c9ab72eca1cb8d67aa6f9b116e0cbe36ee\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\james\.android\build-cache\db445da0cbcc4f53291473b3636624b37468619b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\james\.android\build-cache\0513ff22042771688dae7ebc5961d5ac9759d423\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\james\.android\build-cache\f55114e8747772408c4c836177f4712c8fc794b0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\james\.android\build-cache\34a2467d268644b196b359d6911d4b085645c5bf\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\james\.android\build-cache\4e8d345675869831f3397f0ab68ee68b53ad0aed\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\james\.android\build-cache\f561d0698770e024c10209d9a0bdefbaf7e12e11\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\james\.android\build-cache\32be9a684c33c2be52f4e8d42fe26e621f8fc729\output\AndroidManifest.xml:29:5-20
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\james\.android\build-cache\4643af9df91a5cda1d416085bbd6c13922effb15\output\AndroidManifest.xml:12:5-20
+	android:label
+		ADDED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml:16:7-39
+	android:allowBackup
+		ADDED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml:15:7-33
+	android:icon
+		ADDED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml:17:7-41
+	android:theme
+		ADDED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml:18:7-38
+	android:name
+		ADDED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml:14:7-38
+activity#com.ar_maintenance.MainActivity
+ADDED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml:19:7-28:18
+	android:label
+		ADDED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml:21:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml:23:9-51
+	android:configChanges
+		ADDED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml:22:9-79
+	android:name
+		ADDED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml:20:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml:24:9-27:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml:25:13-65
+	android:name
+		ADDED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml:25:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml:26:13-73
+	android:name
+		ADDED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml:26:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml:29:7-84
+MERGED from [AR_Maintenance:react-native-navigation:unspecified] C:\Users\james\Desktop\personalApp\AR_Maintenace_App\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from [AR_Maintenance:react-native-navigation:unspecified] C:\Users\james\Desktop\personalApp\AR_Maintenace_App\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml:29:17-81
+activity#com.reactnativenavigation.controllers.NavigationActivity
+ADDED from [AR_Maintenance:react-native-navigation:unspecified] C:\Users\james\Desktop\personalApp\AR_Maintenace_App\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\AndroidManifest.xml:12:9-14:86
+	android:configChanges
+		ADDED from [AR_Maintenance:react-native-navigation:unspecified] C:\Users\james\Desktop\personalApp\AR_Maintenace_App\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\AndroidManifest.xml:14:13-83
+	android:name
+		ADDED from [AR_Maintenance:react-native-navigation:unspecified] C:\Users\james\Desktop\personalApp\AR_Maintenace_App\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\AndroidManifest.xml:13:13-84
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\src\main\AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\james\.android\build-cache\61f1b906969086addf8edf958ae2db2e52a84003\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\james\.android\build-cache\865f1a4f2ea77d3534eb6d884becf9ed6f8ab4af\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\james\.android\build-cache\bf415670f23182e652fd82c008ccc58689c59e48\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\james\.android\build-cache\154f92330ffd1f0fb50cbbd63482c39272e374a7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\james\.android\build-cache\9fb1b6c9ab72eca1cb8d67aa6f9b116e0cbe36ee\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\james\.android\build-cache\db445da0cbcc4f53291473b3636624b37468619b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\james\.android\build-cache\0513ff22042771688dae7ebc5961d5ac9759d423\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\james\.android\build-cache\f55114e8747772408c4c836177f4712c8fc794b0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\james\.android\build-cache\34a2467d268644b196b359d6911d4b085645c5bf\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\james\.android\build-cache\4e8d345675869831f3397f0ab68ee68b53ad0aed\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\james\.android\build-cache\f561d0698770e024c10209d9a0bdefbaf7e12e11\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\james\.android\build-cache\32be9a684c33c2be52f4e8d42fe26e621f8fc729\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\james\.android\build-cache\61f1b906969086addf8edf958ae2db2e52a84003\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\james\.android\build-cache\61f1b906969086addf8edf958ae2db2e52a84003\output\AndroidManifest.xml:26:9-47

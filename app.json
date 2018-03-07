@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "AR_Maintenance",
+    "slug": "AR-Maintenance",
+    "sdkVersion": "25.0.0",
+    "privacy": "public"
+  },
+  "name": "AR_Maintenance",
+  "displayName": "AR_Maintenance"
+}

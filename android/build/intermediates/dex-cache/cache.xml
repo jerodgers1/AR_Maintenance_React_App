@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\app\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_ed89aa5173e7cef1158da6782091840143562c48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\d5678602c1467a1df7a7a060e33decb1159d716b\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\app\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_26c3bcffb098df335b33168731811720c76e6910.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\32be9a684c33c2be52f4e8d42fe26e621f8fc729\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\svn\code\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\classes_c64895e8445337107c972e9a186136a78f3c1c05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\865f1a4f2ea77d3534eb6d884becf9ed6f8ab4af\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\svn\code\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\classes_9f7cfa10897b0f191b2041fa59d260de5ad6d1cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\0eaf2147e481feff180b0246ce009c1b2e6572a1\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\svn\code\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_8a45c5c4ae8f06615a30550a3f3e71417ecafdad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\svn\code\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_b007d2ce10794531b09e94c64c8d1d744be64b90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\61f1b906969086addf8edf958ae2db2e52a84003\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\svn\code\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\classes_8befb9a9f476095b8e862bdcb2e6f5ed82b15df0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\app\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_bfc12a99c9c23d46d5be6fe92dea7f0c35f93abf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\8c3785b8bda5e972b4658c9c50dc6adcbee06af3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\svn\code\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\classes_0c56503b1d25c3d519843e0a8d0458d6e65e1bb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\app\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_4b4024107dfef9544af8851d2b98116760bdaaad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\4643af9df91a5cda1d416085bbd6c13922effb15\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\svn\code\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\classes_70cec7264bf9b0f25d1385a05ca4976e004dfac4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\efc84e42672ab29d4b10102188a2ff26a19a8d0d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\svn\code\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\classes_ab5a4c1c6aa7171b91157a290fa3b01a5a44f7f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\d9b394dd03024d97af43d57cc2948ae3d06ecfb2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\app\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\classes_0b776e65d98c174cde90aba8643a3b12dcd7da81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\app\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_c7593a0f78b61c5301f52c8ba5c3539f47c1ce8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\svn\code\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_4efe40c342cacc5bf3b604c9fa8bba3c9a3b8186.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\0eaf2147e481feff180b0246ce009c1b2e6572a1\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\svn\code\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_8a45c5c4ae8f06615a30550a3f3e71417ecafdad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\svn\code\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_60ca601b22ac33d54a6b69631fe69eaea829c769.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\app\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_f22d2e2aa6010660a1f80487abe2d2e30b2259d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\e1f0f67df7b6805cdcef33bf89adbc6ac7e74b29\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\app\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\classes_bb4cfcdc0763c60ec84a93117058996dd5898cbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\d5678602c1467a1df7a7a060e33decb1159d716b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b7bd52e7b84674c67e424dde64f7b7990d7bc54">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\app\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\classes_6294d5923f9bb744ae592c767da8f5d4620c7603.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\93dc7ac11b0161f91d077ed3ceaff3021673bfaf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\app\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\classes_acae2ba75701219dcb006d8edb8df73ae585f2c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\a60f9e0dd73034993a115509d5f317782c02dae7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\app\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\classes_49bbb6f52c82487725b13dad1cee1c853d7585b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\2e3131a6b9db7a54c86467385b7731ccbe9932b4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\svn\code\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\classes_42b2a599199337e74912cd91fbf2115ef1b69209.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\0eaf2147e481feff180b0246ce009c1b2e6572a1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b7bd52e7b84674c67e424dde64f7b7990d7bc54">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\svn\code\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\classes_b90df53d6a373fef4ba25e6fff3999e218c1032a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\svn\code\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_d60f145431a69a0a9ab46511d59458ea195b49ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\app\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_4efe40c342cacc5bf3b604c9fa8bba3c9a3b8186.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\svn\code\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_c7593a0f78b61c5301f52c8ba5c3539f47c1ce8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\91835d29f0d9807e337f41a155bc098b11312a77\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\svn\code\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\classes_9363608e313020ce3c54b44750c56f150f816b38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\d9b394dd03024d97af43d57cc2948ae3d06ecfb2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\svn\code\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\classes_0b776e65d98c174cde90aba8643a3b12dcd7da81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\db445da0cbcc4f53291473b3636624b37468619b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\svn\code\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\classes_67ea7edd749e6e8e4aebdf0d0b6b87fe8b74860f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\svn\code\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_bfc12a99c9c23d46d5be6fe92dea7f0c35f93abf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\0eaf2147e481feff180b0246ce009c1b2e6572a1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b7bd52e7b84674c67e424dde64f7b7990d7bc54">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\svn\code\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\classes_b90df53d6a373fef4ba25e6fff3999e218c1032a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\Desktop\personalApp\AR_Maintenace_App\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ea3694ab3e55f2bedb3737e2bdecfa462ce190ff">
+        <dex dex="C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\classes_19f9321bed3c25ab14d858ad6ff041be36494b8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\93dc7ac11b0161f91d077ed3ceaff3021673bfaf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\svn\code\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\classes_acae2ba75701219dcb006d8edb8df73ae585f2c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\f79b037ed2a797c8c4d09b63e438f960f4434eff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\app\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\classes_e87ba4f5b25b5c35117f56b3dc26bd3ae2569b56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\e1f0f67df7b6805cdcef33bf89adbc6ac7e74b29\output\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\app\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_663f8b2dbf65129f7d57cd7c4b0839315cbb29b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\c1171e80006af456988159dc8cdf56026f3ac36d\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_32de604406afbdf92a0733c320fb26aae7047ba3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\f55114e8747772408c4c836177f4712c8fc794b0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\svn\code\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\classes_9dfd904f1f5ff436b01bce0a785f170171ca9f56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\0513ff22042771688dae7ebc5961d5ac9759d423\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\svn\code\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\classes_bafc6e6bc8b32bdc2ca99256676565943e850aa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\db358566183e5fd525653f59d85c2235da96f7a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\app\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\classes_bafb8bce6a39950e6665fe8d6ccbd93537e6ec15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\svn\code\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_4b4024107dfef9544af8851d2b98116760bdaaad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\bf415670f23182e652fd82c008ccc58689c59e48\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\svn\code\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\classes_6e815e3ee2136eaf7113d796fa15dc5523277e3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\db358566183e5fd525653f59d85c2235da96f7a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\svn\code\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\classes_bafb8bce6a39950e6665fe8d6ccbd93537e6ec15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\34a2467d268644b196b359d6911d4b085645c5bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\svn\code\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\classes_a98da185c99852758c09d3129675f5449a63132c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\4e8d345675869831f3397f0ab68ee68b53ad0aed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\svn\code\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\classes_72c12773a4a25f9978d83cb528fb37bb359e096c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\svn\code\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\library-2.4.0_67c325971e53cdc26bd9f1f66bbdc75723ae64f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\app\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_d60f145431a69a0a9ab46511d59458ea195b49ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\c1171e80006af456988159dc8cdf56026f3ac36d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b7bd52e7b84674c67e424dde64f7b7990d7bc54">
+        <dex dex="C:\Users\james\Desktop\personalApp\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\classes_f1665ea024c12e3b6d011a9573dbad9867ece1e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\4b1536474ef00a1ee5fe4b907f0dc11c85299ad8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\app\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\classes_b1e28726d863142c4395e8f8d0844a0d173141b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\f79b037ed2a797c8c4d09b63e438f960f4434eff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\svn\code\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\classes_e87ba4f5b25b5c35117f56b3dc26bd3ae2569b56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\Desktop\COSC 4354 SDP\svn\code\AR_Maintenace_App\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ea3694ab3e55f2bedb3737e2bdecfa462ce190ff">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\svn\code\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\classes_8e2fd330ef9e7b4cd04f4e0acb40bbc7259de11d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\2e3131a6b9db7a54c86467385b7731ccbe9932b4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\app\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\classes_42b2a599199337e74912cd91fbf2115ef1b69209.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\app\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_b007d2ce10794531b09e94c64c8d1d744be64b90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\154f92330ffd1f0fb50cbbd63482c39272e374a7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\svn\code\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\classes_14e7a8d8439625d7debd06f557c8b2d3c328542f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\a60f9e0dd73034993a115509d5f317782c02dae7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\svn\code\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\classes_49bbb6f52c82487725b13dad1cee1c853d7585b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\8c3785b8bda5e972b4658c9c50dc6adcbee06af3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\app\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\classes_0c56503b1d25c3d519843e0a8d0458d6e65e1bb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\9fb1b6c9ab72eca1cb8d67aa6f9b116e0cbe36ee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\svn\code\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\classes_f8efcdd2d72cbfc630efa7480a10096c9443bbc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\efc84e42672ab29d4b10102188a2ff26a19a8d0d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\app\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\classes_ab5a4c1c6aa7171b91157a290fa3b01a5a44f7f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\cc473734f646256a5a40e51f22cae71e0778ba6f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\svn\code\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\classes_d1c3966f570d4bc7f933e448d59e0210ca0f9709.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.android\build-cache\f561d0698770e024c10209d9a0bdefbaf7e12e11\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\svn\code\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\classes_3815b669a2afd17f2bfadd920f5e99ace9120d9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\james\Desktop\COSC 4354 SDP\svn\code\AR_Maintenace_App\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_ed89aa5173e7cef1158da6782091840143562c48.jar" />
+    </item>
+
+</items>
